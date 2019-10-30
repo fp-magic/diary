@@ -1,18 +1,18 @@
 # diary
 diary of myself, in order to recall what i have done during those lazy days and encorage myself to be not lazier than yesterday.
 
-##content
-###culture
+## content
+### culture
 fiction&&movie
-###learn
+### learn
 course&&book&&paper
-###code
+### code
 project&&algorithm problem
-###exercise
+### exercise
 jogging&&other sports
-###entertainment
+### entertainment
 game&&anime&&idol
-###activity
+### activity
 meeting&&chat&&journey
-###others
+### others
 remain to be added
